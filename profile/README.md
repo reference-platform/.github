@@ -2,7 +2,7 @@
 
 A Kubernetes platform on AWS, built as a reference to show how I design, secure and operate one.
 
-Built by **[Oleksandr Goltsman]**, DevOps and platform engineer.
+Built by **Oleksandr Goltsman**, DevOps and platform engineer.
 [LinkedIn](https://www.linkedin.com/in/alexgoltsman)
 
 ## What it covers

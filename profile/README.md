@@ -7,11 +7,12 @@ Built by **Oleksandr Goltsman**, DevOps and platform engineer.
 
 ## What it covers
 
-- GitOps delivery with ArgoCD and canary releases gated by SLOs
-- Observability: metrics, logs, traces, alerts as code
-- Secrets, policy as code and signed images
-- Load testing, autoscaling and failure drills
-- Terraform with tests that need no cloud account
+- GitOps delivery with ArgoCD
+- A demo app with CI and multi-arch images
+- A local registry cache
+
+TBD: canary releases gated by SLOs, observability, secrets, policy as code,
+signed images, load testing, autoscaling, failure drills and Terraform.
 
 ## Status
 
